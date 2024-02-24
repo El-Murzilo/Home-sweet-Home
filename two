@@ -3,7 +3,7 @@ git add
 git commit -m "Первый коммит"
 git push origin master
 git status
-git clone https://github.com/username/repository.git
+git clone https://github.com/El-Murzilo/Home-sweet-Home.git
 git branch new-branch
 git checkout new-branch
 git merge branch-to-merge 
